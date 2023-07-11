@@ -1,0 +1,81 @@
+/* Rubik-game */
+@font-face {
+  font-family: 'Rubik Beastly';
+  src: local('Rubik Beastly Regular'), local('RubikBeastly-Regular'),
+      url('Rubik_game/RubikBeastly-Regular.woff2') format('woff2'),
+      url('Rubik_game/RubikBeastly-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik Bubbles';
+  src: local('Rubik Bubbles Regular'), local('RubikBubbles-Regular'),
+      url('Rubik_game/RubikBubbles-Regular.woff2') format('woff2'),
+      url('Rubik_game/RubikBubbles-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik Glitch';
+  src: local('Rubik Glitch Regular'), local('RubikGlitch-Regular'),
+      url('Rubik_game/RubikGlitch-Regular.woff2') format('woff2'),
+      url('Rubik_game/RubikGlitch-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik Microbe';
+  src: local('Rubik Microbe Regular'), local('RubikMicrobe-Regular'),
+      url('Rubik_game/RubikMicrobe-Regular.woff2') format('woff2'),
+      url('Rubik_game/RubikMicrobe-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik Mono One';
+  src: local('Rubik Mono One Regular'), local('RubikMonoOne-Regular'),
+      url('Rubik_game/RubikMonoOne-Regular.woff2') format('woff2'),
+      url('Rubik_game/RubikMonoOne-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Rubik Moonrocks';
+  src: local('Rubik Moonrocks Regular'), local('RubikMoonrocks-Regular'),
+      url('Rubik_game/RubikMoonrocks-Regular.woff2') format('woff2'),
+      url('Rubik_game/RubikMoonrocks-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik Puddles';
+  src: local('Rubik Puddles Regular'), local('RubikPuddles-Regular'),
+      url('Rubik_game/RubikPuddles-Regular.woff2') format('woff2'),
+      url('Rubik_game/RubikPuddles-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Rubik Wet Paint';
+  src: local('Rubik Wet Paint Regular'), local('RubikWetPaint-Regular'),
+      url('Rubik_game/RubikWetPaint-Regular.woff2') format('woff2'),
+      url('Rubik_game/RubikWetPaint-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+

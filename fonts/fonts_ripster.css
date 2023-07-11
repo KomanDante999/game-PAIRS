@@ -1,0 +1,61 @@
+/* Ripster */
+@font-face {
+  font-family: 'Ripster Inline';
+  src: local('Ripster Regular Inline'), local('Ripster-RegularInline'),
+      url('Ripster/Ripster-RegularInline.woff2') format('woff2'),
+      url('Ripster/Ripster-RegularInline.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ripster Soft';
+  src: local('Ripster Soft'), local('Ripster-Soft'),
+      url('Ripster/Ripster-Soft.woff2') format('woff2'),
+      url('Ripster/Ripster-Soft.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ripster';
+  src: local('Ripster Regular'), local('Ripster-Regular'),
+      url('Ripster/Ripster-Regular.woff2') format('woff2'),
+      url('Ripster/Ripster-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ripster Shadow';
+  src: local('Ripster Regular Shadow'), local('Ripster-RegularShadow'),
+      url('Ripster/Ripster-RegularShadow.woff2') format('woff2'),
+      url('Ripster/Ripster-RegularShadow.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ripster Soft Inline';
+  src: local('Ripster Soft Inline'), local('Ripster-SoftInline'),
+      url('Ripster/Ripster-SoftInline.woff2') format('woff2'),
+      url('Ripster/Ripster-SoftInline.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Ripster Soft Shadow';
+  src: local('Ripster Soft Shadow'), local('Ripster-SoftShadow'),
+      url('Ripster/Ripster-SoftShadow.woff2') format('woff2'),
+      url('Ripster/Ripster-SoftShadow.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
